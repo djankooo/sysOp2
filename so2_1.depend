@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1553202851 source:/home/jan/Pulpit/so/so2_1/main.cpp
+	<ncurses.h>
+
+1558951377 source:/home/jan/Pulpit/so/so2_1/src/Ball.cpp
+	"lib.h"
+
+1558965539 /home/jan/Pulpit/so/so2_1/include/Ball.h
+	"lib.h"
+
+1553206124 source:/home/jan/Pulpit/so/so2_1/src/Borders.cpp
+	"Borders.h"
+
+1553206082 /home/jan/Pulpit/so/so2_1/include/Borders.h
+
+1558883040 source:/home/jan/Pulpit/so/so2_1/src/Main.cpp
+	<lib.h>
+
+1558884024 /home/jan/Pulpit/so/so2_1/include/lib.h
+	<unistd.h>
+	<ctime>
+	<cstdlib>
+	<thread>
+	<mutex>
+	<ncurses.h>
+	<condition_variable>
+	<Ball.h>
+	<vector>
+	<iostream>
+
